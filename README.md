@@ -1,5 +1,41 @@
-### Hi there 👋
+Hey there! 👋 Welcome to my GitHub Page!
+My name is Antonio Dannemann and I've been working in architecture for most of my like. However, I've recently made the decision to transition into the tech industry, specifically web development 💻 because I'm fascinated by the endless possibilities and opportunities it offers.
 
+As someone who's always eager to learn and explore new things, I'm constantly seeking out new challenges and exciting experiences. That's why I decided to take on the challenge of a web development bootcamp at @Le Wagon, where I acquired a whole new set of skills and worked on some amazing projects 🚀.
+
+Now that I've completed the program, I'm ready to embark on a new adventure and take my tech skills to the next level. I can't wait to see what the future holds!
+
+Throughout my incredible journey, I had the privilege of collaborating with an exceptional team of individuals to develop two remarkable projects that I'm truly proud of:
+
+  - [Rentart (airbnb clone)](https://github.com/wJoenn/rentart) - _platform for renting pieces of art_
+  
+  ![rentart](https://user-images.githubusercontent.com/114437310/230505397-f4a61efc-e513-4652-9e33-20932f9b92b6.png)
+
+
+  - [Artify](https://github.com/wJoenn/artify) - _Website designed for mobile with Ruby on Rails where it is possible to take a picture of a monument or landmark anywhere in the world and get information about it_
+  
+![artify](https://user-images.githubusercontent.com/112712290/231252005-e2ad43f0-0d01-4e52-891a-0c6703f6ea16.jpg)
+
+🔭 Currently I'm focused on improving the skills I learned in the Bootcamp and become a amazing Front-end developer 💪
+
+📫 Feel free to contact me **_antoniodlm@me.com_**.
+
+
+
+<!--
+**MarianaCarlota/MarianaCarlota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 **AntonioDannemann/AntonioDannemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
